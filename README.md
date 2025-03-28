@@ -1,1 +1,2 @@
 # Personal-Expense-Tracker
+Personal Expense Tracker is a simple web application built with Flask, SQLite, HTML, and CSS to help users track their personal expenses. The app allows users to view and add expenses with details such as description, category, amount, and date. Data is stored in an SQLite database, which is automatically created when the app is run. The user interface is clean and responsive, providing an easy-to-use experience for managing daily expenses. The app is ideal for anyone looking to track and manage their spending habits efficiently.
