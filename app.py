@@ -2,7 +2,7 @@ from flask import Flask, render_template_string, request, redirect
 import sqlite3
 
 app = Flask(__name__)
-
+#Branch2 new line is added
 # Function to connect to SQLite database
 def get_db_connection():
     conn = sqlite3.connect('expenses.db')
